@@ -1,0 +1,8 @@
+# Ignore .pkl files
+*.pkl
+
+# Ignore .DS_Store (common for Mac users, can be omitted if not needed)
+.DS_Store
+
+# Ignore IDE files
+.idea/
